@@ -1,0 +1,15 @@
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Test-0.csprojAssemblyReference.cache
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\App.g.cs
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Test-0_MarkupCompile.cache
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Test-0_MarkupCompile.lref
+C:\Users\Dimat\source\repos\Test-0\Test-0\bin\Debug\Test-0.exe.config
+C:\Users\Dimat\source\repos\Test-0\Test-0\bin\Debug\Test-0.exe
+C:\Users\Dimat\source\repos\Test-0\Test-0\bin\Debug\Test-0.pdb
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Views\MainWindow.baml
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Test-0.g.resources
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Test_0.Properties.Resources.resources
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Test-0.csproj.GenerateResource.cache
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Test-0.csproj.CoreCompileInputs.cache
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Test-0.exe
+C:\Users\Dimat\source\repos\Test-0\Test-0\obj\Debug\Test-0.pdb
